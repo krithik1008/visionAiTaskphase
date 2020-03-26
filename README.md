@@ -12,3 +12,4 @@ This is the main repository in which you'll have to commit the code you write th
 * On github.com, make a Pull Request
 * Keep in mind that you'll have to add this repository as an upstream and your fork as a remote origin 
 ```
+## Completed Exercises
